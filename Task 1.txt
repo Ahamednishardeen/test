@@ -1,0 +1,4 @@
+1.What is the difference between an array and a list?
+
+
+In programming, an array is a fixed-size, contiguous memory allocation that stores elements of the same data type. In contrast, a list is a dynamic data structure that can grow or shrink in size, and it can hold elements of different data types. Lists often provide more flexibility in terms of operations like insertion and deletion, while arrays offer constant-time access to elements.
